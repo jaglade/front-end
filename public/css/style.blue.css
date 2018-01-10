@@ -69,7 +69,7 @@ h1 {
   color: #999999;
 }
 #top #login-modal .modal-header {
-  background: #4993e4;
+  background: red;
 }
 #top #login-modal .modal-header h4 {
   color: #fff;
