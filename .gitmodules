@@ -1,0 +1,3 @@
+[submodule "config/dev"]
+	path = config/dev
+	url = git@github.com:jaglade/microservices-demo.git
